@@ -1,0 +1,2 @@
+https://letientai.io/freecodecamp/pyda/sea/
+https://replit.com/@SebGmur/boilerplate-sea-level-predictor-1#sea_level_predictor.py
